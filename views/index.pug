@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  h1= "Metrics"
+  p Total RAM : #{total_physical_size} GB
+  p Available RAM : #{total_available_size} GB
+  p Usage CPU : #{cpuUsage} %
+  p Free CPU : #{free_cpu} %
