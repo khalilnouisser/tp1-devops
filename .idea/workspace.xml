@@ -23,6 +23,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="a" value="1" />
           <entry key="js" value="8" />
           <entry key="pug" value="1" />
         </counts>
@@ -31,6 +32,7 @@
         <counts>
           <entry key="Jade" value="1" />
           <entry key="JavaScript" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -172,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570200099787</updated>
       <workItem from="1570200101948" duration="3577000" />
-      <workItem from="1570798598714" duration="2851000" />
+      <workItem from="1570798598714" duration="3100000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1570798653315</created>
@@ -244,11 +246,25 @@
       <option name="project" value="LOCAL" />
       <updated>1570808004836</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <created>1570808321929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570808321929</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <created>1570808467401</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570808467401</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6428000" />
+    <option name="totallyTimeSpent" value="6677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="951" extended-state="6" />
@@ -259,7 +275,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945284" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -268,7 +284,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.330617" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.330617" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,6 +320,9 @@
           <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.pug">
       <provider selected="true" editor-type-id="text-editor">
