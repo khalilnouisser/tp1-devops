@@ -20,7 +20,7 @@ router.get('/metrics', function (req, res, next) {
                           var total_mem = mem.totalMem();
                             res.render('index', {total_physical_size: total_mem / 1073741824,
                                 total_available_size: info3.freeMemMb / 1024,
-                                free_cpu: free_cpu,
+                                free_cpu: 100 - cpuUsage,
                                 cpuUsage: cpuUsage,
                             });
                         });
