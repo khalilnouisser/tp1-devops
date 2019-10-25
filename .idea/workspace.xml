@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8a16db5-e1a7-42b9-be72-3b8bc2c8882e" name="Default Changelist" comment="test">
+    <list default="true" id="d8a16db5-e1a7-42b9-be72-3b8bc2c8882e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -45,14 +45,14 @@
         <counts>
           <entry key="Dockerfile" value="17" />
           <entry key="pug" value="5" />
-          <entry key="yml" value="62" />
+          <entry key="yml" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="17" />
           <entry key="Jade" value="5" />
-          <entry key="YAML" value="62" />
+          <entry key="YAML" value="126" />
         </counts>
       </usages-collector>
     </session>
@@ -80,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -218,7 +218,7 @@
       <workItem from="1571244344354" duration="64000" />
       <workItem from="1571244422372" duration="194000" />
       <workItem from="1571941813725" duration="1258000" />
-      <workItem from="1572007564538" duration="4134000" />
+      <workItem from="1572007564538" duration="4365000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1570798653315</created>
@@ -378,7 +378,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13377000" />
+    <option name="totallyTimeSpent" value="13608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="952" extended-state="6" />
@@ -471,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="240">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
         </state>
       </provider>
     </entry>
